@@ -8,3 +8,6 @@ C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Si
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
+C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb

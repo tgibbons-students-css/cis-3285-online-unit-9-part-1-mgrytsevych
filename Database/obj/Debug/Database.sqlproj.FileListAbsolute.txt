@@ -6,9 +6,5 @@ C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\ob
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\bin\Debug\Database.dacpac
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\bin\Debug\Database.dll
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\bin\Debug\Database.pdb
-C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\obj\Debug\Model.xml
-C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\obj\Debug\refactor.xml
-C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\obj\Debug\postdeploy.sql
-C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\obj\Debug\predeploy.sql
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\obj\Debug\Database.dll
 C:\Users\Computer Club\Source\Repos\cis-3285-online-unit-9-part-1-mgrytsevych\Database\obj\Debug\Database.pdb
